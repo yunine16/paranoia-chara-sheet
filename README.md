@@ -1,24 +1,10 @@
 # paranoia-chara-sheet
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## paranoia-chara-sheetって？
+パラノイア用の簡易的なキャラクターシート作成ツールです。
+これを使うことで、cocofoliaのチャットパレットを自動で作成することができます。
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 使用上の注意
+まだバグが多いです。見つけたバグや、追加してほしい機能があればissuesにて報告していただけると助かります。
